@@ -1,0 +1,39 @@
+<svg width="1440" height="2600" viewBox="0 0 1440 2600" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_537_8154)">
+<ellipse cx="719.5" cy="1300" rx="900" ry="337.5" transform="rotate(-90 719.5 1300)" fill="url(#paint0_linear_537_8154)"/>
+</g>
+<defs>
+<filter id="filter0_f_537_8154" x="-18.0001" y="0" width="1475" height="2600" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="200" result="effect1_foregroundBlur_537_8154"/>
+</filter>
+<linearGradient id="paint0_linear_537_8154" x1="1619.5" y1="1300.78" x2="-180.5" y2="1300.78" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1C1746"/>
+<stop offset="0.040404" stop-color="#231748"/>
+<stop offset="0.0808081" stop-color="#28184A"/>
+<stop offset="0.121212" stop-color="#2D194C"/>
+<stop offset="0.161616" stop-color="#32194D"/>
+<stop offset="0.20202" stop-color="#371A4F"/>
+<stop offset="0.242424" stop-color="#3B1A50"/>
+<stop offset="0.282828" stop-color="#3F1B53"/>
+<stop offset="0.323232" stop-color="#3F1E5B"/>
+<stop offset="0.363636" stop-color="#3C2264"/>
+<stop offset="0.40404" stop-color="#39266C"/>
+<stop offset="0.444444" stop-color="#362973"/>
+<stop offset="0.484848" stop-color="#342C7A"/>
+<stop offset="0.525253" stop-color="#323073"/>
+<stop offset="0.565657" stop-color="#31346C"/>
+<stop offset="0.606061" stop-color="#2F3864"/>
+<stop offset="0.646465" stop-color="#2D3C5D"/>
+<stop offset="0.686869" stop-color="#2B4056"/>
+<stop offset="0.727273" stop-color="#2A444F"/>
+<stop offset="0.767677" stop-color="#284747"/>
+<stop offset="0.808081" stop-color="#264B40"/>
+<stop offset="0.848485" stop-color="#244F39"/>
+<stop offset="0.888889" stop-color="#235332"/>
+<stop offset="0.929293" stop-color="#21572B"/>
+<stop offset="0.969697" stop-color="#1F5B23"/>
+</linearGradient>
+</defs>
+</svg>
